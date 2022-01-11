@@ -26,6 +26,7 @@ class LopinosaurusIDCard():
   def __init__(self):
     self.username = "Lopinosaurus";
     self.twitter = "@Lopinosaurus";
+    self.projects = "YaourtBot, CNBot, Triton Launcher, Lycans"
   
 ```
 <h3 align="center">
