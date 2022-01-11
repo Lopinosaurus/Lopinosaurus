@@ -24,9 +24,7 @@
 class LopinosaurusIDCard():
     
   def __init__(self):
-    self.name = "Louis L.";
     self.username = "Lopinosaurus";
-    self.location = "Toulouse, France";
     self.twitter = "@Lopinosaurus";
   
 ```
