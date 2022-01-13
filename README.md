@@ -52,5 +52,5 @@ class LopinosaurusIDCard():
 
 - **YaourtBot : A simple Discord Bot giving every user a yogurt brand name**
 - **Triton Launcher : An ultra-optimized Minecraft Launcher for 1.8.9, 1.12.2 and 1.16+ for PvP and Anarchy (Not open-source at this time)**
-- **PagalomaProject : an EPITA game project**
+- **CNBot : Full release of YaourtBot**
 
