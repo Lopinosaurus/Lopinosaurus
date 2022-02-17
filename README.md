@@ -3,7 +3,7 @@
 </h1>
 
 <h3 align="center">
- <b> First year of <a href="https://www.epita.fr/">EPITA</a> engineering school, learning OCaml, Python, C# and Basics of Cybersecurity. I enjoy looking for vulnerabilities in Glua of Gmod servers. GitHub beginner. </b>
+ <b> First year of <a href="https://www.epita.fr/">EPITA</a> engineering school, learning OCaml, Python, C# and Basics of Cybersecurity. GitHub beginner. </b>
 </h3>
 
 <p>
