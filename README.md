@@ -26,7 +26,7 @@ class LopinosaurusIDCard():
   def __init__(self):
     self.username = "Lopinosaurus";
     self.twitter = "@Lopinosaurus";
-    self.projects = "YaourtBot, SPSBot, Triton Launcher"
+    self.projects = "YaourtBot, SPSBot, Triton Launcher, RTCBot"
   
 ```
 <h3 align="center">
@@ -53,4 +53,5 @@ class LopinosaurusIDCard():
 - **YaourtBot : A simple Discord Bot giving every user a yogurt brand name**
 - **Triton Launcher : An ultra-optimized Minecraft Launcher for 1.8.9, 1.12.2 and 1.16+ for PvP and Anarchy (Not open-source at this time, fixing some bugs)**
 - **SPSBot : An Instagram Anti-Scam Bot using reverse Instagram API and able to scan a profile to find if it is a bot, or if the account is compromised.**
+- **RTCBot : A Karuta-Like Bot currently indev, where you collect NFTs and RatioCoins bot's currency.**
 
