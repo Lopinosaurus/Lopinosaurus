@@ -3,7 +3,7 @@
 </h1>
 
 <h3 align="center">
- <b> First year of engineering school, learning OCaml, Python, C# and Basics of Cybersecurity. GitHub beginner. </b>
+ <b> First year of engineering school, learning OCaml, Python, C# and Basics of Cybersecurity. </b>
 </h3>
 
 <p>
