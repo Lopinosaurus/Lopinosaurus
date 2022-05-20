@@ -1,5 +1,5 @@
 <h1 align="center">
-  <b>👋 Hello, this is Lopinosaurus 👋</b>
+  <b>👋 Hey there, meet Lopinosaurus. 👋</b>
 </h1>
 
 <h3 align="center">
@@ -50,7 +50,8 @@ class LopinosaurusIDCard():
 </h3>
 
 
-- **Triton Launcher : An ultra-optimized Minecraft Launcher for 1.8.9, 1.12.2 and 1.16+ for PvP and Anarchy (Not open-source at this time, fixing some bugs)**
+- **Triton Client : [Project has been reworked] A ForgeHax based cheat, used to identify bases, and a powerful CPVP and PVP client. Not open source. **
 - **SPSBot : An Instagram Anti-Scam Bot, used to detect fake or boosted accounts, or suspicious activities. Indev state, in C#.**
 - **RTCBot : A Karuta-Like Bot currently indev, where you collect NFTs and RatioCoins bot's currency. Pause state, dev in Python.**
+- **Pagaloma Studio's Project : Lycans : A Unity-built first person werewolf game. Not open source.
 
