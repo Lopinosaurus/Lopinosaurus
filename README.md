@@ -53,5 +53,5 @@ class LopinosaurusIDCard():
 - **Triton Client : [Project has been reworked] A ForgeHax based cheat, used to identify bases, and a powerful CPVP and PVP client. Not open source. **
 - **SPSBot : An Instagram Anti-Scam Bot, used to detect fake or boosted accounts, or suspicious activities. Indev state, in C#.**
 - **RTCBot : A Karuta-Like Bot currently indev, where you collect NFTs and RatioCoins bot's currency. Pause state, dev in Python.**
-- **Pagaloma Studio's Project : Lycans : A Unity-built first person werewolf game. Not open source.
+- **Pagaloma Studio's Project : Lycans : A Unity-built first person werewolf game. Not open source.**
 
