@@ -28,7 +28,7 @@ class LopinosaurusIDCard():
   def __init__(self):
     self.username = "Lopinosaurus";
     self.twitter = "@Lopinosaurus";
-    self.projects = "YaourtBot, SPSBot, Triton Client, RTCBot, Lycans"
+    self.projects = "Discord Bots, Lycans, Triton Launcher"
   
 ```
 <h3 align="center">
@@ -55,4 +55,4 @@ class LopinosaurusIDCard():
 - **SPSBot : An Instagram Anti-Scam Bot, used to detect fake or boosted accounts, or suspicious activities. Indev state, in C#.**
 - **RTCBot : A Karuta-Like Bot currently indev, where you collect NFTs and RatioCoins bot's currency. Pause state, dev in Python.**
 - **Pagaloma Studio's Project : Lycans : A Unity-built first person werewolf game. Not open source.**
-
+-**FloppyRecorder : A Discord bot used to centralize logs from multiples server into a unique channel.**
