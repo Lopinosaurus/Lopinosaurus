@@ -56,4 +56,4 @@ class LopinosaurusIDCard():
 - **RTCBot : A Karuta-Like Bot currently indev, where you collect NFTs and RatioCoins bot's currency. Pause state, dev in Python.**
 - **Pagaloma Studio's Project : Lycans : A Unity-built first person werewolf game. Not open source.**
 - **FloppyRecorder : A Discord bot used to centralize logs from multiples server into a unique channel.**
-- **Pestilence Engine : An Open-Source OSINT Automated Tool. Indev state, not open source (yet)**
+- **Pestilence Engine : An OSINT Automated Tool. Indev state, not open source (yet)**
