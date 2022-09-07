@@ -52,8 +52,6 @@ class LopinosaurusIDCard():
 
 
 - **Triton Client : [Project has been reworked] A ForgeHax based cheat, used to identify bases, and a powerful CPVP and PVP client. Not open source.**
-- **SPSBot : An Instagram Anti-Scam Bot, used to detect fake or boosted accounts, or suspicious activities. Indev state, in C#.**
-- **RTCBot : A Karuta-Like Bot currently indev, where you collect NFTs and RatioCoins bot's currency. Pause state, dev in Python.**
+- **Discord bots : I like creating discord bots in Rust or Python. I made public a centralized logger, a karuta-like game and a Youtube mp3 Converter.**
 - **Pagaloma Studio's Project : Lycans : A Unity-built first person werewolf game. Not open source.**
-- **FloppyRecorder : A Discord bot used to centralize logs from multiples server into a unique channel.**
 - **Pestilence Engine : An OSINT Automated Tool. Indev state, not open source (yet)**
