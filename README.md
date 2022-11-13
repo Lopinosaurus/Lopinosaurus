@@ -28,7 +28,7 @@ class LopinosaurusIDCard():
   def __init__(self):
     self.username = "Lopinosaurus";
     self.twitter = "@Lopinosaurus";
-    self.projects = "Discord Bots, Lycans, Triton Launcher, Spigot plugins"
+    self.projects = "Discord Bots, Lycans, Triton Launcher, Cybersecurity tools and random stuff"
   
 ```
 <h3 align="center">
