@@ -48,6 +48,4 @@ class LopinosaurusIDCard():
 
 ![Lopinosaurus' Activity Graph](https://activity-graph.herokuapp.com/graph?username=Lopinosaurus&custom_title=Lopinosaurus'%20Contribution%20Graph&theme=dark&bg_color=282828&hide_border=true&line=d1a01f&point=c58545)
 
-<h3 align="center">
-<b> On Going Projects : </b>
-</h3>
+
