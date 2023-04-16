@@ -20,17 +20,20 @@
 </div>
 </p>
 
-<h3 align="center">
-<b> ID CARD : </b>
-</h3>
+```rust
+struct Lopinosaurus {
+  username: String,
+  twitter: String,
+  projects: Vec<String>
+}
 
-```python
-class LopinosaurusIDCard():
-    
-  def __init__(self):
-    self.username = "Lopinosaurus";
-    self.twitter = "@Lopinosaurus";
-    self.projects = "Discord Bots, Lycans, Triton Launcher, Cybersecurity tools and random stuff"
+fn main() {
+  let lopin = Lopinosaurus {
+    username : "Lopinosaurus".to_string(),
+    twitter : "@Lopinosaurus".to_string(),
+    projects : vec!["Bots".to_string(), "Unity Games".to_string(), "Cybersecurity tools".to_string(), "Other random stuff".to_string()]
+  };
+}
   
 ```
 <h3 align="center">
