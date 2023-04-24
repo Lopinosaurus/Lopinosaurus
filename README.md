@@ -31,7 +31,8 @@ fn main() {
   let lopin = Lopinosaurus {
     username : "Lopinosaurus".to_string(),
     twitter : "@Lopinosaurus".to_string(),
-    projects : vec!["Bots".to_string(), "Unity Games".to_string(), "Cybersecurity tools".to_string(), "Other random stuff".to_string()]
+    projects : vec!["Bots".to_string(), "Unity Games".to_string(), 
+    "Cybersecurity tools".to_string(), "Other random stuff".to_string()]
   };
 }
   
