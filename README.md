@@ -3,7 +3,7 @@
 </h1>
 
 <h3 align="center">
- <b> First year of engineering school. Enjoyed about OCaml, C#, Java, Python, LUA and Basics of Cybersecurity. I'm currently learning Rust and C++/C. </b>
+ <b> Second year of engineering school. Enjoyed about OCaml, C#, Java, Python, LUA and Basics of Cybersecurity. I'm currently learning Rust and C++/C. </b>
 </h3>
 
 <p>
