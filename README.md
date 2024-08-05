@@ -1,9 +1,9 @@
 <h1 align="center">
-  <b>👋 Hey there, meet Lopinosaurus. 👋</b>
+  <b>init Lopinosaurus</b>
 </h1>
 
 <h3 align="center">
- <b> Second year of engineering school. Enjoyed about OCaml, C#, Java, Python, LUA and Basics of Cybersecurity. I'm currently learning Rust and C++/C. </b>
+ <b> Third year of engineering school. Loving low level dev and breaking things. Sometimes fixing them.</b>
 </h3>
 
 <p>
@@ -20,22 +20,13 @@
 </div>
 </p>
 
-```rust
-struct Lopinosaurus {
-  username: String,
-  twitter: String,
-  projects: Vec<String>
-}
-
-fn main() {
-  let lopin = Lopinosaurus {
-    username : "Lopinosaurus".to_string(),
-    twitter : "@Lopinosaurus".to_string(),
-    projects : vec!["Bots".to_string(), "Unity Games".to_string(), 
-    "Cybersecurity tools".to_string(), "Other random stuff".to_string()]
-  };
-}
-  
+```md
+Working on:
+- Breaking, then sometimes fixing code. Apparently that's called cybersecurity.
+- Compilers (because language processing is fun)
+- Kernels/Exokernels (coding is fun, C is funnier)
+- Forensic (because fun)
+- Source Intelligence (finding things is fun too)
 ```
 <h3 align="center">
 <b> Some stats about me : </b>
