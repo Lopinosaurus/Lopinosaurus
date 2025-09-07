@@ -3,7 +3,7 @@
 </h1>
 
 <h3 align="center">
- <b> Third year of engineering school. Loving low level dev and breaking things. Sometimes fixing them.</b>
+ <b> Fourth year of engineering school. Loving low level dev and breaking things. Sometimes fixing them.</b>
 </h3>
 
 <p>
