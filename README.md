@@ -13,19 +13,8 @@ Working on:
 - Kernels and low level.
 - Open-Source Intelligence.
 ```
-<h3 align="center">
-<b> Some stats about me : </b>
-</h3>
-
-<br/>
-<p align="left">
-    <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=Lopinosaurus&show_icons=true&theme=ayu-mirage&hide_border=true" />
-    <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=Lopinosaurus&theme=ayu-mirage&hide_border=true" />
-  </a>
+<p align="center">
+My work is not currently publicly available. Please wait a bit.
 </p>
-<br>
-
-
-![Lopinosaurus' Activity Graph](https://activity-graph.herokuapp.com/graph?username=Lopinosaurus&custom_title=Lopinosaurus'%20Contribution%20Graph&theme=dark&bg_color=282828&hide_border=true&line=d1a01f&point=c58545)
 
 
